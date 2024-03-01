@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Md-Sharif-Hosen/VS_CODE_Extension_For_PHP-HTML_CSS_Javascript.readme)
 # VS_CODE_Extension_For_PHP-HTML_CSS_Javascript
 ## HTML & CSS Extensions:
 
